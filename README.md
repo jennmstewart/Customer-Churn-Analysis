@@ -26,13 +26,16 @@ The dataset contains 500 synthetic orders with the following features:
 ## Visualizations
 
 ![Sales by Product Category](./sales_by_category.png)
+
 *Figure 1: Total Sales by Product Category*
 
 
 ![Average Delivery Time by Location](./avg_delivery_time.png)
+
 *Figure 2: Average Delivery Time by Location*
 
 ![Order Status Breakdown](./order_status_breakdown.png)
+
 *Figure 3: Order Status Breakdown*
 
 ## Tools and Libraries Used
